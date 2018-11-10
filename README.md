@@ -1,6 +1,7 @@
 # Guerilla Open Access Manifesto 
 
-A copy of **Guerilla Open Access Manifesto** archived from archive.org  which is written by **Arron Swart** (*November 8, 1986 - January 11, 2013*)
+A copy of **Guerilla Open Access Manifesto** archived from [archive.org](https://archive.org/details/GuerillaOpenAccessManifesto/page/n1)
+which is written by **[Arron Swart](https://en.wikipedia.org/wiki/Aaron_Swartz)** (*November 8, 1986 - January 11, 2013*)
 
 -----------------------------------
 
@@ -67,6 +68,13 @@ Aaron Swartz
 
 July 2008, Eremo, Italy 
 
+
+>>**Aaron Hillel Swartz** (*November 8, 1986 – January 11, 2013*) was an American computer programmer,
+entrepreneur, writer, political organizer, and Internet hacktivist. He was involved in the
+development of the web feed format RSS and the Markdown(example this README.md) publishing format, the organization
+Creative Commons, and the website framework web.py, 
+and was a co-founder of the social news site Reddit. In 2011 he was improsied for connecting one of his computer to MIT server for accessing Research and 
+Academic Journals, later on 11th January 2013 he committed suicide. [Know More](https://en.wikipedia.org/wiki/Aaron_Swartz)
 
 ---------------------------
 
