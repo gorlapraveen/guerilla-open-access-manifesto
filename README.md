@@ -71,4 +71,4 @@ July 2008, Eremo, Italy
 ---------------------------
 
 
-Original available at [archive.org](https://archive.org/details/GuerillaOpenAccessManifesto/page/n1)
+Original archive available at [archive.org](https://archive.org/details/GuerillaOpenAccessManifesto/page/n1)
